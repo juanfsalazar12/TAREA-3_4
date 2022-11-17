@@ -185,7 +185,7 @@ Resolucion de ejercicios del libro de Floyd
 
 * Video 
 
-
+https://drive.google.com/file/d/11WMb09Kogs_xMQo3R_F8jshG5TkmdmYK/view?usp=share_link
 
 * Conclusiones 
 
